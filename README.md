@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yūki
+- 👀 I’m interested in JavaScript, HTML and CSS
+- 🌱 I’m currently learning Python
+- 📫 You can reach me on Discord by adding me to friend (Yūki#9090)
